@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [https://jean-cv.tiiny.site](https://jean-cv.tiiny.site)
 
+- ⚽️ Lastly I love football - happy to discuss anything football-related 😄
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jean-isou-5a16921a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jean-isou-5a16921a0/" height="30" width="40" /></a>
