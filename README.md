@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **onlyjean8888@gmail.com**
 
-- 📄 Know about my experiences [https://jean-cv.tiiny.site](https://jean-cv.tiiny.site)
+<!-- - 📄 Know about my experiences [https://jean-cv.tiiny.site](https://jean-cv.tiiny.site) -->
 
 - ⚽️ Lastly I love football - happy to discuss anything football-related 😄
   
