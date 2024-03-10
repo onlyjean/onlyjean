@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jean</h1>
 <h3 align="center">A passionate Data Engineer who's always learning 🫡</h3>
 
-- 🌱 I’m currently learning **DataTalks Data Engineering ZoomCamp - (Spark, Mage AI, DBT, Kafka, GCP, Terraform and more)**
+- 🌱 I’m currently learning **DataTalks Data Engineering ZoomCamp - (Kafka, GCP, Terraform and more)**
 
 - 💬 Ask me about **Anything Data Engineering related (especially Big Data )**
 
