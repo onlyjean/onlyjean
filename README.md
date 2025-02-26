@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jean</h1>
 <h3 align="center">A passionate Data Engineer who's always learning 🫡</h3>
 
-- 🌱 I’m currently learning **DataTalks Data Engineering ZoomCamp - (Apache Spark, Mage AI, DBT, Kafka, GCP, Terraform and more)**
+- 🌱 Skilled in Azure (Vnet, Private Endpoints, Key Vault, ADLS, SQL Server, Databricks, ADF, Azure DevOps, VMs/VMSS, Networking), Apache Spark (Databricks and Ms Fabric), DevOps (CI/CD, Git, Azure Pipelines, Github Actions), Terraform, Kafka, Powershell, Bash
 
 - 💬 Ask me about **Anything Data Engineering related (especially Big Data )**
 
 - 📫 How to reach me **onlyjean8888@gmail.com**
-
-<!-- - 📄 Know about my experiences [https://jean-cv.tiiny.site](https://jean-cv.tiiny.site) -->
 
 - ⚽️ Lastly I love football - happy to discuss anything football-related 😄
   
