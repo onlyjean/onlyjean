@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **Anything Data Engineering related (especially Big Data )**
 
-- 📫 How to reach me **onlyjean8888@gmail.com**
-
 - ⚽️ Lastly I love football - happy to discuss anything football-related 😄
   
 <h3 align="left">Connect with me:</h3>
