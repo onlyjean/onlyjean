@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jean</h1>
+<h1 align="center">Hi 👋, I'm Cedrix</h1>
 <h3 align="center">A passionate Data Engineer who's always learning 🫡</h3>
 
 - 🌱 Skilled in Azure (Vnet, Private Endpoints, Key Vault, ADLS, SQL Server, Databricks, ADF, Azure DevOps, VMs/VMSS, Networking), Apache Spark (Databricks and Ms Fabric), DevOps (CI/CD, Git, Azure Pipelines, Github Actions), Terraform, Kafka, Powershell, Bash
